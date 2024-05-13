@@ -8,9 +8,10 @@ The Hotel Booking System is a command-line interface (CLI) application.
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [File Structure](#file-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+5. [Demo](#demo)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -71,6 +72,11 @@ hotel-booking-system/
 - **db.py**: Handles the database setup and session management.
 - **hotel.db**: The SQLite database file (created automatically).
 - **README.md**: This file, providing documentation for the project.
+
+# Demo
+
+- How the Hotel Booking System looks when run.
+![Hotel Booking System](hotelbookingsystem.png)
 
 
 # Contributing
